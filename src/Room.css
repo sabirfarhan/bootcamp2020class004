@@ -1,0 +1,113 @@
+   .room {
+    height: 100vh;
+    text-align: center;
+  }
+
+  .ON {
+    background-color: white;
+    color: black;
+  }
+
+  .OFF {
+    background-color: black;
+    color: white;
+  }
+
+  .RED {
+    background-color: red;
+    color: white;
+  }
+
+  .GREEN {
+    background-color: green;
+    color: white;
+  }
+
+  .BLUE {
+    background-color: blue;
+    color: white;
+  }
+  
+  .on {
+    background-color: lightgreen;
+    border: 1px solid gray;
+    margin: 30px;
+    color: white;
+    padding: 20px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+  }
+  
+  .off {
+    background-color: lightgreen;
+    border: 1px solid gray;
+    margin: 30px;
+    color: white;
+    padding: 20px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+  }
+  
+  .green {
+    background-color: green;
+    border: 1px solid gray;
+    margin: 20px;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+  .blue {
+    background-color: blue;
+    border: 1px solid gray;
+    margin: 20px;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+  .red {
+    background-color: red;
+    border: 1px solid gray;
+    margin: 20px;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+  .plus {
+    background-color: rgb(114, 9, 155);
+    border: 1px solid gray;
+    margin: 20px;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+  }
+
+  .minus {
+    background-color: rgb(114, 9, 155);
+    border: 1px solid gray;
+    margin: 20px;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+  }
